@@ -3,3 +3,5 @@
 2.晚上跑了深度学习卷及神经网络的两个实验，逐步分析了代码含义。
 着手在看GANomaly论文，文章提出了E-D-E的结构，并加入了GAN的思想
 是GAN用于异常检测的代表性文章
+3.看到一篇比较好的，收集和整理论文的博客
+https://ying-zhang.github.io/misc/2016/we-love-paper/#hosts
